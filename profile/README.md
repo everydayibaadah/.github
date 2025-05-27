@@ -1,4 +1,4 @@
-# Everyday Ibaadah Academy - Tech Hub
+# Everyday Ibaadah Academy
 
 Welcome to the GitHub for **Everyday Ibaadah Academy (EDIA)!** This is a collaborative space for students to work on coding projects, develop resources, and explore technology.
 
