@@ -22,7 +22,7 @@ For general school information:
 
 * **Website:** [www.everydayibaadahacademy.com](https://www.everydayibaadahacademy.com/)
 
-* **Email:** info@everydayibaadahacademy.com
+* **Email:** info[at]everydayibaadahacademy.com
 
 * **Phone:** +1 310-845-6825
 
